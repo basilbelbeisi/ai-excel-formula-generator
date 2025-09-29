@@ -15,7 +15,7 @@ The project leverages the power of **Hugging Face's T5-small** transformer model
 ## Explore the Full Blog Post
 For a detailed step-by-step explanation, deep dives into the code, and a video demonstration, please visit the accompanying blog post:
 
-➡️ **[Read the Full Article on DataSkillBlog.com]([https://dataskillblog.com/how-to-build-an-ai-excel-formula-generator-with-python-and-hugging-face-t5](https://dataskillblog.com/ai-excel-formula-generator))**
+➡️ **[Read the Full Article on DataSkillBlog.com](https://dataskillblog.com/ai-excel-formula-generator)**
 
 ## Repository Contents
 * `excel_formula_generator.ipynb`: The main Jupyter Notebook containing all the code for data generation, preprocessing, model training, and evaluation.
@@ -44,10 +44,4 @@ This is a prototype, and as such, it has some simplifications:
 These choices were made to keep the dataset clean for demonstration purposes.
 
 ## Future Work
-* Expand dataset with more complex conditions and nested functions.
-* Integrate with Excel directly (e.g., via an add-in).
-* Improve user interface for interactive formula generation.
-
----
-
-This setup will ensure anyone visiting your GitHub repo immediately understands the project, knows how to get started, and is directed to your blog for the full story.
+* Expand dataset with more complex
