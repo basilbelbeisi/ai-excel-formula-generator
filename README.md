@@ -1,4 +1,4 @@
-# AI Excel Formula Generator: Natural Language to Excel Formulas with T5
+# AI Excel Formula Generator: Natural Language to Excel Formulas
 
 ## Project Overview
 This repository contains the Jupyter Notebook for a project that demonstrates how to build an AI-powered **Excel Formula Generator**. The goal is to translate plain English descriptions into accurate Excel formulas, making spreadsheet automation more intuitive.
