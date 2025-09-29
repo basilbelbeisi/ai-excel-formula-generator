@@ -17,25 +17,6 @@ For a detailed step-by-step explanation, deep dives into the code, and a video d
 
 ➡️ **[Read the Full Article on DataSkillBlog.com](https://dataskillblog.com/ai-excel-formula-generator)**
 
-## Repository Contents
-* `excel_formula_generator.ipynb`: The main Jupyter Notebook containing all the code for data generation, preprocessing, model training, and evaluation.
-* `requirements.txt` (Highly Recommended to add): A list of all Python libraries and their versions required to run the notebook.
-
-## Getting Started (Local Setup)
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/YOUR_USERNAME/ai-excel-formula-generator.git](https://github.com/YOUR_USERNAME/ai-excel-formula-generator.git)
-    cd ai-excel-formula-generator
-    ```
-2.  **Install dependencies:**
-    ```bash
-    # It is highly recommended to create a virtual environment first
-    pip install -r requirements.txt
-    ```
-3.  **Run the Notebook:**
-    Open `excel_formula_generator.ipynb` in Jupyter Lab or Jupyter Notebook and execute the cells sequentially.
-
 ## Limitations
 This is a prototype, and as such, it has some simplifications:
 * Formulas primarily use entire columns (e.g., `A:A`) rather than specific ranges.
@@ -44,4 +25,6 @@ This is a prototype, and as such, it has some simplifications:
 These choices were made to keep the dataset clean for demonstration purposes.
 
 ## Future Work
-* Expand dataset with more complex
+* Expand dataset with more complex conditions and nested functions.
+* Integrate with Excel directly (e.g., via an add-in).
+* Improve user interface for interactive formula generation.
